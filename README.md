@@ -1,2 +1,2 @@
-# Medical-Help-MultimodalLLM-GPT4
-Upload an image to get an analysis from GPT-4.
+# Medical-Help-App-using-GPT-4V
+Medical Help App using GPT-4V
